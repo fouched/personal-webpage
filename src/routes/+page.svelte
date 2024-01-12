@@ -12,7 +12,7 @@
 
 </script>
 
-<h1 class="text-4xl mt-4">Fouche's Awesome Website</h1>
+<h1 class="text-4xl mt-4">Personal Website</h1>
 <p class="text-sm m-3">This is my website. Thank you for checking it out!</p>
 <h4 class="text-xl mt-4">Daily Quote</h4>
 {#await promiseQuote}
