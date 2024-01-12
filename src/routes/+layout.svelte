@@ -6,7 +6,7 @@
 <header class="bg-gray-900 sm:flex sm:justify-between sm:items-center">
 	<div class="flex items-center justify-between px-4">
 		<div class="text-white">
-			<a href="/">Fouche's Site</a>
+			<a href="/">Personal Site</a>
 		</div>
 		<div class="sm:hidden">
 				<button type="button" on:click={toggleOpen} class="block text-gray-500 hover:text-white focus:text-white focus:outline-none">
