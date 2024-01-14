@@ -1,6 +1,7 @@
 <script>
-	let isOpen = false
+	import '../app.css'
 
+	let isOpen = false
 	const toggleOpen = () => { isOpen = !isOpen}
 </script>
 <header class="bg-gray-900 sm:flex sm:justify-between sm:items-center">
